@@ -1,4 +1,3 @@
-
 {
   // Theme
   "workbench.colorTheme": "Dracula",
@@ -24,6 +23,8 @@
   "eslint.alwaysShowStatus": true,
   // emmet
   "emmet.triggerExpansionOnTab": true,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "JetBrains Mono",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   }
